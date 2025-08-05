@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/titov12cvadratnay/web_site/static/css/main.c90fa1f0.css",
+    "main.js": "/titov12cvadratnay/web_site/static/js/main.367cc8b2.js",
+    "index.html": "/titov12cvadratnay/web_site/index.html",
+    "main.c90fa1f0.css.map": "/titov12cvadratnay/web_site/static/css/main.c90fa1f0.css.map",
+    "main.367cc8b2.js.map": "/titov12cvadratnay/web_site/static/js/main.367cc8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c90fa1f0.css",
+    "static/js/main.367cc8b2.js"
+  ]
+}
